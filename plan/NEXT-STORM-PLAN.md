@@ -47,7 +47,7 @@ keel was still in block download at 2026-10-09T07:59:26Z, 69%, last block 2026-1
 6. Label a flat combined accept rate sender-limited, node-bound, or network-bound, or leave it unclear. The old n0 mempool cap does not apply to locus or to keel.
 7. Indexer health every 30 seconds. Mining share per node, per step. NTP at the start and at the end on both machines.
 
-The longer sheet is the private repo `STP-KAS/tn10-locus`, file `plan/MONITOR.md`. The next run's checklist is that repo's `plan/NEXT-RUN-MONITOR.md`. The 8 Oct unread n0 lines are closed because n0 will not run. The next run covers keel in their place, plus the bot block, box disk, box NTP, usage, the per-minute five ids, indexer every 30 seconds, keel mempool every second, confirmation times, the ordered stream, saturation on each side's own node, mining share, the miners-off control, and the combined accepted rate. A missing reading on a line this section still requires stays **not measured** and fails the pass. That checklist does not add a demand. This plan still does not give the storm GO.
+The longer sheet is the private repo `STP-KAS/tn10-storm-2026-10-09`, file `plan/MONITOR.md`. The next run's checklist is that repo's `plan/NEXT-RUN-MONITOR.md`. The 8 Oct unread n0 lines are closed because n0 will not run. The next run covers keel in their place, plus the bot block, box disk, box NTP, usage, the per-minute five ids, indexer every 30 seconds, keel mempool every second, confirmation times, the ordered stream, saturation on each side's own node, mining share, the miners-off control, and the combined accepted rate. A missing reading on a line this section still requires stays **not measured** and fails the pass. That checklist does not add a demand. This plan still does not give the storm GO.
 
 ## What: Kaspa Pulse's four questions + sequencing are the measured goals
 
@@ -91,7 +91,7 @@ The sections below are the **Method**: Kaspa Pulse's six process points (§1–�
 - The results sections of the README cite that SHA, with a link to this file at that commit.
 - After the lock the plan is not edited. Anything we do differently on the night goes in a **"Deviations from the locked plan"** section of the results, with the time and the reason.
 - The results are published next to this plan, in this repo. Build's result and the bot's result each keep their own section.
-- Once both of those sections are filled, the check of one against the other is [tn10-storm-build-bot-challenge](https://github.com/STP-KAS/tn10-storm-build-bot-challenge). That page stays empty until then. It does not replace the two result sections.
+- Once both of those sections are filled, the check of one against the other is [tn10-storm-2026-10-09-challenge](https://github.com/STP-KAS/tn10-storm-2026-10-09-challenge). That page stays empty until then. It does not replace the two result sections.
 
 ## 2. Baseline first
 

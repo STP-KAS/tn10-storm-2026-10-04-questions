@@ -92,6 +92,6 @@ A sender started inside a short-lived shell dies when that shell closes. Keep th
 
 ## After the run
 
-Write Build's result in this repo's Build result section, and the same run in [tn10-build-desk-tps](https://github.com/STP-KAS/tn10-build-desk-tps). Exact first and last log times for every step. The bot writes its own file. A figure enters the merged challenge only when both sides name the same file and recompute the same figure.
+Write Build's result in this repo's Build result section, and the same run in [tn10-storm-2026-10-06](https://github.com/STP-KAS/tn10-storm-2026-10-06). Exact first and last log times for every step. The bot writes its own file. A figure enters the merged challenge only when both sides name the same file and recompute the same figure.
 
 Do not fill those sections before the storm.

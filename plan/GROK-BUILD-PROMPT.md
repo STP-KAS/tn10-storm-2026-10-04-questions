@@ -162,6 +162,6 @@ Build's last storm logs had submit-OK counts and no chain inclusion, no time per
 
 ## After the run
 
-Write Build's reading in this repo's Build result section, and the same run in [tn10-build-desk-tps](https://github.com/STP-KAS/tn10-build-desk-tps). Exact first and last log times for every step. The bot writes its own section. A figure enters the [challenge repo](https://github.com/STP-KAS/tn10-storm-build-bot-challenge) only when both sides name the same file and recompute the same figure.
+Write Build's reading in this repo's Build result section, and the same run in [tn10-storm-2026-10-06](https://github.com/STP-KAS/tn10-storm-2026-10-06). Exact first and last log times for every step. The bot writes its own section. A figure enters the [challenge repo](https://github.com/STP-KAS/tn10-storm-2026-10-09-challenge) only when both sides name the same file and recompute the same figure.
 
 Do not fill those sections before the storm.

@@ -3,6 +3,10 @@
 > Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](DISCLAIMER.md)
+>
+> **Part of [tn-master](https://github.com/STP-KAS/tn-master)**, the map of every TN10 storm. Renamed on 11 Oct 2026 from `tn10-storm-throughput-questions`; old links redirect here.
+>
+> ← previous storm: [tn10-storm-2026-10-02](https://github.com/STP-KAS/tn10-storm-2026-10-02) | next storm: [tn10-storm-2026-10-06](https://github.com/STP-KAS/tn10-storm-2026-10-06) →
 
 Thank you, Kaspa Pulse (@gokugalax), for the guidance and the input over this stretch, from 4 Oct 2026 on. The 7 Oct 2026 wording stays: sign-and-send processes are senders; runner is the setup; bot is reserved for the operator.
 
@@ -90,7 +94,7 @@ Empty until the run.
 
 **Raw CSV next to the summary.** His publication point, and the plan's §8. The file list is in the plan. The files sit next to the summary in this repo.
 
-TN10 ops writes its reading in the subsection below, from the box logs, with acceptance matched on keel. Build writes its reading in the subsection below, from the desk logs, with acceptance matched on locus. A waiting keel minute adds 0. Both stay empty until that run. The check of one reading against the other stays in [tn10-storm-build-bot-challenge](https://github.com/STP-KAS/tn10-storm-build-bot-challenge). That page stays empty until both readings are filled.
+TN10 ops writes its reading in the subsection below, from the box logs, with acceptance matched on keel. Build writes its reading in the subsection below, from the desk logs, with acceptance matched on locus. A waiting keel minute adds 0. Both stay empty until that run. The check of one reading against the other stays in [tn10-storm-2026-10-09-challenge](https://github.com/STP-KAS/tn10-storm-2026-10-09-challenge). That page stays empty until both readings are filled.
 
 ### TN10 ops
 

@@ -12,7 +12,7 @@ The real test stays Friday 9 Oct 2026, 21:30 UTC, for 8 hours, ending Saturday 1
 
 If this file and the plan disagree, the plan wins. The disagreements are listed in the checkout result. They do not change the plan.
 
-The row sheet is [tonight-8-oct/RESULTS.md](https://github.com/STP-KAS/grok-bot-build-combo/blob/593a4baf4d9fcf5299634474d97960a517b2cf24/tonight-8-oct/RESULTS.md) on the private combo repo, commit `593a4baf4d9fcf5299634474d97960a517b2cf24`. This page is the count. It does not copy tx ids.
+The row sheet is [tonight-8-oct/RESULTS.md](https://github.com/STP-KAS/tn10-storm-2026-10-08/blob/593a4baf4d9fcf5299634474d97960a517b2cf24/tonight-8-oct/RESULTS.md) on the private combo repo, commit `593a4baf4d9fcf5299634474d97960a517b2cf24`. This page is the count. It does not copy tx ids.
 
 ## 1. The 8 Oct updates
 
