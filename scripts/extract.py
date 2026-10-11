@@ -8,8 +8,8 @@ Raw inputs (not in this repo, sizes in README):
 All times written in UTC. Nothing is estimated: every value is a logged value, a difference
 of logged cumulative counters, or a min/median/max of logged samples."""
 import json, glob, csv, os, sys, statistics as st, datetime as dt, collections
-OCT = sys.argv[1] if len(sys.argv) > 1 else "/workspace/artifacts/stress-tests/data"
-SEP = sys.argv[2] if len(sys.argv) > 2 else "/workspace/tn10-break-test-2026-09-25/logs"
+OCT = sys.argv[1] if len(sys.argv) > 1 else "[local path]"
+SEP = sys.argv[2] if len(sys.argv) > 2 else "[local path]"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 UTC = dt.timezone.utc
 def E(s):

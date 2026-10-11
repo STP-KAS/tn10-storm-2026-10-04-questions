@@ -34,7 +34,7 @@ The desk runs two kaspad processes. **locus** is the first. **keel** is the seco
 | The bot's runner, and the bot's miners | keel, through the tunnel stp provides | The runner only during the storm, and only while keel is synced and tip lag is at or under 300 seconds. The miners only while keel is synced and the handoff lists the tunnel. Otherwise sender count is 0 and the row says waiting. keel still adds 0 to that minute. |
 | Grok Build | locus | Every paced step, the long hold, and the max step, on loopback Borsh, while locus is synced and the UTXO index is on. |
 
-keel was still in block download at 2026-10-09T07:59:26Z, 69%, last block 2026-10-08T17:03:33Z, not synced. It is already in the score. Until it is synced, the combined rate is locus alone, and the desk miners stay on locus. The old n0 transaction-id match is not a gate for this run. A short box disk stops the bot and does not stop Build. Never `bore.pub`. Never `159.223.110.159`. Do not invent a tunnel host.
+keel was still in block download at 2026-10-09T07:59:26Z, 69%, last block 2026-10-08T17:03:33Z, not synced. It is already in the score. Until it is synced, the combined rate is locus alone, and the desk miners stay on locus. The old n0 transaction-id match is not a gate for this run. A short box disk stops the bot and does not stop Build. Never `[tunnel]`. Never `[ip]`. Do not invent a tunnel host.
 
 **Monitoring tasks.** One owner each. A missing read is **not measured**. No key, seed, address, or txid in git.
 

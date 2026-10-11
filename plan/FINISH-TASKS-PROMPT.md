@@ -13,9 +13,9 @@ The storm prompt is [`GROK-BUILD-PROMPT.md`](GROK-BUILD-PROMPT.md). The test-day
 1. **Do not start the storm.** No storm GO. Do not write `steps-utc.json`. Do not give the final OK on the start time. The start is **Fri 9 Oct 2026, 21:30 UTC, for 8 hours, ending Sat 10 Oct 2026, 05:30 UTC**, otherwise **Mon 13 Oct 2026, 21:30 UTC, ending Tue 14 Oct 2026, 05:30 UTC**.
 2. **Do not lock the plan.** Do not commit a "locked" SHA. The lock stays with stp before T0.
 3. **Do not run the miner switch.** Desk miners stay **0**. Do not start `kaspa-miner`.
-4. **One spender family.** The fee-400 signers have exited. Do not start them again. Do not start `build-storm2`, `p2w.mjs`, `storm-sender`, or a second `measure.mjs` sender. The halt file `C:\Users\Remco\kaspa-tn10\build-storm2\STOP` stays. Its text is `halt`. Do not delete it.
+4. **One spender family.** The fee-400 signers have exited. Do not start them again. Do not start `build-storm2`, `p2w.mjs`, `storm-sender`, or a second `measure.mjs` sender. The halt file `[local path]` stays. Its text is `halt`. Do not delete it.
 5. **Keys stay on the desk.** Do not print, paste, log, upload, or commit a key, seed, wallet file, address, or txid. Pass a key path only. Public text uses the name Fermi.
-6. **TN10 only.** `testnet-10` and `kaspatest` only. Do not send to n0, `bore.pub`, or `159.223.110.159`. This checklist does not send. Do not arm `loc0`–`loc3` or any later signer. Those coin files stay spent. The storm's long hold may use the synced desk node. That permission is in [`GROK-BUILD-PROMPT.md`](GROK-BUILD-PROMPT.md), not here.
+6. **TN10 only.** `testnet-10` and `kaspatest` only. Do not send to n0, `[tunnel]`, or `[ip]`. This checklist does not send. Do not arm `loc0`–`loc3` or any later signer. Those coin files stay spent. The storm's long hold may use the synced desk node. That permission is in [`GROK-BUILD-PROMPT.md`](GROK-BUILD-PROMPT.md), not here.
 7. If a number was not read in this pass, write **not measured**. Do not invent a balance, a disk figure, a usage counter, or an n0 match.
 
 ## What already ran
@@ -72,7 +72,7 @@ At the end of this pass, run both and record the UTC time:
 - `w32tm /query /status`
 - `w32tm /stripchart /computer:time.windows.com /samples:5 /dataonly`
 
-Write the stripchart offset in milliseconds. Count `kaspa-miner` processes. The pre-storm count is **0**. Append one line to `C:\Users\Remco\kaspa-tn10\build-measure\logs\long10-events.log` with the offset and the miner count.
+Write the stripchart offset in milliseconds. Count `kaspa-miner` processes. The pre-storm count is **0**. Append one line to `[local path]` with the offset and the miner count.
 
 The miner switch is a test-day step. It runs only from [`TESTDAY.md`](TESTDAY.md), at the UTC times in `steps-utc.json`. That file does not exist. Do not switch miners in this pass.
 

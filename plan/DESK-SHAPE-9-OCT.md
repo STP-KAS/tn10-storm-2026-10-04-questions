@@ -4,7 +4,7 @@ What worked on the Grok Build desk during the 6–7 Oct 2026 TN10 pre-run. Use t
 
 This file does not start the storm, does not lock the plan, and does not fill the result sections. The lock text is still [`NEXT-STORM-PLAN.md`](NEXT-STORM-PLAN.md). If this note and that plan disagree, the plan wins and Build stops and asks stp. The numbers below are the pre-run. The 10-hour window is already in [tn10-storm-2026-10-06](https://github.com/STP-KAS/tn10-storm-2026-10-06): 668 tx/s submit and 273 tx/s seen accepted. It does not move the fee on this page. The paste-in for 9 or 13 Oct is [`GROK-BUILD-PROMPT.md`](GROK-BUILD-PROMPT.md).
 
-TN10 only. The Build wallet only. The Bot wallet is not spent. One sender family. The fee cap stays **600** sompi/gram. Build sends on locus on every step. The bot's runner and the bot's miners use the tunnel to keel. n0 will not run. Never `bore.pub`. Never `159.223.110.159`. The public-node sentences below are the 6–7 Oct shape that was measured. They are not this send path.
+TN10 only. The Build wallet only. The Bot wallet is not spent. One sender family. The fee cap stays **600** sompi/gram. Build sends on locus on every step. The bot's runner and the bot's miners use the tunnel to keel. n0 will not run. Never `[tunnel]`. Never `[ip]`. The public-node sentences below are the 6–7 Oct shape that was measured. They are not this send path.
 
 ## Paced steps, the 25% share
 
@@ -72,7 +72,7 @@ These are the behaviors that kept a depth-2 pipe moving. A sender without them f
 - Start at most **32** submits in one turn.
 - The lane cap has to cover the coin file. A cap of 4,000 left muon-10 short. This pre-run used **24,000**.
 - A `GO` file arms a spend. A `STOP` file halts it. The 3 Oct halt on the older fleet stays where it is. This sender does not clear it.
-- Do not send to `bore.pub` or `159.223.110.159`.
+- Do not send to `[tunnel]` or `[ip]`.
 
 ## Nodes
 

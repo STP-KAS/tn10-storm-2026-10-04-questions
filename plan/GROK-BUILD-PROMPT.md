@@ -36,7 +36,7 @@ The old n0 txid match is not a gate. n0 will not run. The box dry run and 35 GB 
 ## Hard rules
 
 1. **TN10 only.** `kaspatest:` addresses and network `testnet-10`. If a node reports any other network, stop.
-2. **locus and keel.** Build sends on locus, loopback Borsh, on every step, while locus is synced and the UTXO index is on. keel is the second desk kaspad. Do not send Build to keel, to n0, to `bore.pub`, or to `159.223.110.159`. Do not start n0. Do not start another kaspad. Desk miners stay on locus until keel is synced.
+2. **locus and keel.** Build sends on locus, loopback Borsh, on every step, while locus is synced and the UTXO index is on. keel is the second desk kaspad. Do not send Build to keel, to n0, to `[tunnel]`, or to `[ip]`. Do not start n0. Do not start another kaspad. Desk miners stay on locus until keel is synced.
 3. **Keys stay on the desk.** Never print, paste, log, upload, or commit a key, seed, or wallet file. Do not open the key file. Pass only its path to the script.
 4. **No public posting during the run.** Logs go to stp only.
 5. **One sender setup.** Only the processes named below, from the Build wallet. Do not spend the Bot wallet. If a Build spender is already running, stop and ask.

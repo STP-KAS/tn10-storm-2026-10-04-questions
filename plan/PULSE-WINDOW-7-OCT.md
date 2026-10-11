@@ -75,7 +75,7 @@ On the last submit line of each sender that was still writing at 18:38Z, the `no
 | pv1 | `wss://vector-10.kaspa.green/kaspa/testnet-10/wrpc/borsh` | 2026-10-07T18:38:39.132Z |
 | order | `wss://proton-10.kaspa.stream/kaspa/testnet-10/wrpc/borsh` | 2026-10-07T18:38:39.400Z |
 
-The second log's `via` field says `own` for pd0 and pd1, and `public` for the others. The sender that writes `own` stores that word for `ws://127.0.0.1:17210` (`measure.mjs`). The transaction line itself says `own`, not the URL.
+The second log's `via` field says `own` for pd0 and pd1, and `public` for the others. The sender that writes `own` stores that word for `ws://[ip]` (`measure.mjs`). The transaction line itself says `own`, not the URL.
 
 That is both. Desk node and three public endpoints. Not his window.
 
@@ -87,11 +87,11 @@ These five are the last submits in our log. They are not inside his window. `t_a
 
 | Sender | tx id | `t_submit_start` | `t_submit_ok` | File |
 |---|---|---|---|---|
-| ps1 | `900a8c248304bc1be511ed687a392d7e89186f845c13a81383bd27f0983e3586` | 2026-10-07T18:38:39.530Z | 2026-10-07T18:38:39.597Z | `build-tx-20261007-ps1-p2h.jsonl` |
-| ps0 | `c8aade85f8e257f85da696f7a025bc0fe38d33dfdfee653d8abad982a4e642f8` | 2026-10-07T18:38:39.497Z | 2026-10-07T18:38:39.536Z | `build-tx-20261007-ps0-p2h.jsonl` |
-| pv1 | `d3ded4730af031f800e1cdb118c39206a80d4d83f8d7548ba00bc217bcc3258e` | 2026-10-07T18:38:39.056Z | 2026-10-07T18:38:39.132Z | `build-tx-20261007-pv1-p2h.jsonl` |
-| pd0 | `71101eb600de15e7160cdf2f2a6befbf704ddf82f2a935cc688a101ee03719d1` | 2026-10-07T18:38:39.218Z | 2026-10-07T18:38:39.218Z | `build-tx-20261007-pd0-p2h.jsonl` |
-| pm0 | `c199684173093f8741e88eca577bfe035a9bab9d9dce9d5af6f759ecb2de73c5` | 2026-10-07T18:38:38.214Z | 2026-10-07T18:38:38.444Z | `build-tx-20261007-pm0-p2h.jsonl` |
+| ps1 | `[hash]` | 2026-10-07T18:38:39.530Z | 2026-10-07T18:38:39.597Z | `build-tx-20261007-ps1-p2h.jsonl` |
+| ps0 | `[hash]` | 2026-10-07T18:38:39.497Z | 2026-10-07T18:38:39.536Z | `build-tx-20261007-ps0-p2h.jsonl` |
+| pv1 | `[hash]` | 2026-10-07T18:38:39.056Z | 2026-10-07T18:38:39.132Z | `build-tx-20261007-pv1-p2h.jsonl` |
+| pd0 | `[hash]` | 2026-10-07T18:38:39.218Z | 2026-10-07T18:38:39.218Z | `build-tx-20261007-pd0-p2h.jsonl` |
+| pm0 | `[hash]` | 2026-10-07T18:38:38.214Z | 2026-10-07T18:38:38.444Z | `build-tx-20261007-pm0-p2h.jsonl` |
 
 ## The 2,753 figure and the 9.7k pool
 
