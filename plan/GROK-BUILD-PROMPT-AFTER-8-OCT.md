@@ -46,4 +46,4 @@ The evening locus rounds on 8 Oct turned per-transaction logging off. The real t
 
 The bot side of the checkout is **not measured**. The box dry run and the plan lock stay with stp. n0 will not run, so the old n0 txid match is not a gate. Do not mark the dry run or the lock done. Leave the older fleet halt file in place. Do not clear it.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

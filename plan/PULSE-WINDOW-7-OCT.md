@@ -1,6 +1,6 @@
 > **Experimental. We are just trying this.**
 >
-> Good intentions, shaky hands. STP does not know what he is doing. We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
+> We test, we write down what we think we saw, and that is the whole product. A number here is not the truth. A chart is not the truth. Any other sentence that sounds sure of itself is not the truth either. Do not count any of it as a claim.
 >
 > [Disclaimer](../DISCLAIMER.md)
 
@@ -145,4 +145,4 @@ This note does not call 2,753 or 9747 a ceiling. The 3,500 bar is unchanged. 2,9
 
 The fields marked MISSING above are why the dry run exists. It is written as pending in [TESTDAY.md](TESTDAY.md). It is not a storm GO, and this note does not run it.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.

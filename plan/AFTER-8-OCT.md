@@ -101,4 +101,4 @@ The 8 Oct note already in the combo repo at the commit above is the input used h
 
 From this note and from the plan, the candidate paste is [`GROK-BUILD-PROMPT-AFTER-8-OCT.md`](GROK-BUILD-PROMPT-AFTER-8-OCT.md). It does not replace [`GROK-BUILD-PROMPT.md`](GROK-BUILD-PROMPT.md) until stp says so.
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+Si vis pacem, para bellum.
